@@ -1,0 +1,87 @@
+[
+    {
+        "id" : 1 ,
+        "productName" : "Gái xinh 01",
+        "price" : 500000,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--APtc5Nnz3w43NQTVrDCon1p33k9xWBgGg&s",
+        "stock" : 10
+    },
+    {
+        "id" : 2 ,
+        "productName" : "Gái xinh 02",
+        "price" : 500000,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--APtc5Nnz3w43NQTVrDCon1p33k9xWBgGg&s",
+        "stock" : 10
+    },
+    {
+        "id" : 3 ,
+        "productName" : "Gái xinh 03",
+        "price" : 500000,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--APtc5Nnz3w43NQTVrDCon1p33k9xWBgGg&s",
+        "stock" : 10
+    },
+    {
+        "id" : 4 ,
+        "productName" : "Gái xinh 04",
+        "price" : 500000,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--APtc5Nnz3w43NQTVrDCon1p33k9xWBgGg&s",
+        "stock" : 10
+    },
+    {
+        "id" : 5 ,
+        "productName" : "Gái xinh 05",
+        "price" : 500000,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--APtc5Nnz3w43NQTVrDCon1p33k9xWBgGg&s",
+        "stock" : 10
+    },
+    {
+        "id" : 6 ,
+        "productName" : "Gái xinh 06",
+        "price" : 500000,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--APtc5Nnz3w43NQTVrDCon1p33k9xWBgGg&s",
+        "stock" : 10
+    },
+    {
+        "id" : 7 ,
+        "productName" : "Gái xinh 07",
+        "price" : 500000,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--APtc5Nnz3w43NQTVrDCon1p33k9xWBgGg&s",
+        "stock" : 10
+    },
+    {
+        "id" : 8 ,
+        "productName" : "Gái xinh 08",
+        "price" : 500000,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--APtc5Nnz3w43NQTVrDCon1p33k9xWBgGg&s",
+        "stock" : 10
+    },
+    {
+        "id" : 9 ,
+        "productName" : "Gái xinh 09",
+        "price" : 500000,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--APtc5Nnz3w43NQTVrDCon1p33k9xWBgGg&s",
+        "stock" : 10
+    },
+    {
+        "id" : 10 ,
+        "productName" : "Gái xinh 10",
+        "price" : 500000,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--APtc5Nnz3w43NQTVrDCon1p33k9xWBgGg&s",
+        "stock" : 10
+    },
+    {
+        "id" : 11 ,
+        "productName" : "Gái xinh 11",
+        "price" : 500000,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--APtc5Nnz3w43NQTVrDCon1p33k9xWBgGg&s",
+        "stock" : 10
+    },
+    {
+        "id" : 12 ,
+        "productName" : "Gái xinh 02",
+        "price" : 500000,
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR--APtc5Nnz3w43NQTVrDCon1p33k9xWBgGg&s",
+        "stock" : 10
+    }
+    
+]
